@@ -1,0 +1,15 @@
+---
+title: "Demo"
+author: "STAT 450, Fall 2020"
+date: "12/16/2020"
+output: html_document
+---
+
+```{r}
+head(mtcars)
+```
+
+```{r}
+summary(mtcars$wt)
+```
+
