@@ -13,3 +13,7 @@ head(mtcars)
 summary(mtcars$wt)
 ```
 
+```{r}
+plot(mtcars$wt, mtcars$mpg)
+```
+
